@@ -1,4 +1,5 @@
-# <img src= "https://media.giphy.com/media/ihkO7MbfTsctsxs7IF/giphy.gif" width="100"/> ***Welcome to Caberos Github***
+# <img src= "https://media.giphy.com/media/ihkO7MbfTsctsxs7IF/giphy.gif" width="100" class="center"/> 
+# ***Welcome to Caberos Github***
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielfcaberobarrios/)
 
